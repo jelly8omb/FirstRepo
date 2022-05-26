@@ -8,5 +8,8 @@
 </head>
 <body>
 	<h2>첫번째 git 연동 테스트</h2>
+	<ul>
+		<li>5월26일 2교시 수업</li>
+	</ul>
 </body>
 </html>
